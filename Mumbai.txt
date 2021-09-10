@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is new line in mumbai file 
+=======
+THis is new line in the file 
+This is edited by github
+>>>>>>> 42292191517e2dc0673f250468fbfb504be4b167
