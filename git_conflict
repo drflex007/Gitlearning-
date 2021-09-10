@@ -1,1 +1,4 @@
 this is git conflict file and this is on master branch
+git conflict resolved.
+this is git conflict file on branch1
+>>>>>>> branch1
